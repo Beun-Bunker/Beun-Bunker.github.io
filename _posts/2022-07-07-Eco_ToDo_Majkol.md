@@ -1,5 +1,6 @@
 ---
-title: Phil's ToDo list - Eco
+layout: posts
+title: Majkol's ToDo list - Eco
 date: 2022-07-07 12:00:00 -500
 categories: [Gaming,Eco]        # Will display as [MainFolder,SubFolder] on the in the categories tab
 tags: [eco,todo,majkol]         # TAG names should ALWAYS be lowercase and in an array
