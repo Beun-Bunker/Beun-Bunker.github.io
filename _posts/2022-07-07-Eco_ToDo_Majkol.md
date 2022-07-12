@@ -14,18 +14,8 @@ pin: false
 ## General Tasks
 
 - [ ] Iron Tools
-  - [X] Make a road to the dessert
-  - [X] Start a mine (27 blocks beneath the surface)
-  - [X] Setup ramps so a cart can go up and down
-  - [X] Mine Iron for Smelting research
-  - [X] Make a spot to dispose of Wet Tailings
-  - [X] Make Tools
-  - [X] Profit
 - [X] Setup a Basic Upgrade 1 => Basic Upgrade 2 Shop
-  - [X] Make a road grid for the shopping district
-  - [X] Claim a plot and build a shop
-  - [X] Setup automatic crafting
-  - [X] Profit
+- [X] Setup a Basic Upgrade 3 => Basic Upgrade 4 Shop
 
 ## Road network
 
@@ -36,12 +26,4 @@ pin: false
 ## Research
 
 - [X] Smelting Skill Book
-  - [X] 10/10 - Smelting Research Paper
-  - [X] 5/5 - Dendrology Research Paper Advanced
-  - [X] 5/5 - Geology Research Paper Advanced
-  - [X] 5/5 - Basic Research Tag
 - [X] Glassworking Skill Book
-  - [X] 10/10 - Geology Research Paper Basic
-  - [X] 5/5 - Geology Research Paper Advanced
-  - [X] 5/5 - Engineering Research Paper Advanced
-  - [X] 10/10 - Basic Research Tag
